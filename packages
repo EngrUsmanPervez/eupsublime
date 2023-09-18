@@ -1,20 +1,5 @@
-Package Control
-
-SideBarEnhancements
-Alignment
-BracketHighlighter
-Emmet
-A File Icon
-SFTP
-AutoFileName
-Auto Semi-Colon
-AllAutocomplete
-FileDiffs
-TodoReview
-ChangeQuotes
-DoxyDoxygen
-DocBlockr
-Advanced New File
+// Advanced Install Package
+SideBarEnhancements,Alignment,BracketHighlighter,Emmet,A File Icon,SFTP,AutoFileName,Auto Semi-Colon,FileDiffs,TodoReview,ChangeQuotes,DoxyDoxygen,DocBlockr,All Autocomplete,AdvancedNewFile
 
 
 Monokai Pro
