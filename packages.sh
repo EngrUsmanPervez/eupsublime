@@ -26,3 +26,6 @@ JSHint,Minifier,CSScomb,Trimmer,HTML-CSS-JS Prettify,Pretty JSON,LiveReload
 
 # Intellisense
 Tabnine, SublimeLinter
+
+# Pre-Requisite
+apt install clang-format
