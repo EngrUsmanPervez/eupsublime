@@ -1,4 +1,3 @@
-'''
 [
 	{ "keys": ["alt+="], "command": "goto_definition" },
 	// { "keys": ["alt+-"], "command": "jump_back" },
@@ -44,4 +43,3 @@
         }
     }
 ]
-'''
