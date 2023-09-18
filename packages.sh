@@ -9,26 +9,20 @@ Theme - Monokai Pro,Themr,Colorsublime,Origami
 # C Programming
 C++ Starting Kit,C Improved,C++11,CppBuilder,Clang Format,C++ Snippets,C++NamespaceTool
 
-# Color
+# Coloring
 ColorHelper,ColorPicker,Color Highlighter
 
 # Git
 Git,SublimeGit,GitGutter,GitHubinator,GitOpenChangedFiles
 
-Terminus
-Terminal
+# Terminal
+Terminus,Terminal
 
-MarkDown Editing
-MarkdownPreview
-PackageResourceViewer
+# Markdown
+MarkdownEditing,MarkdownPreview,PackageResourceViewer
 
-JSHint
-Minifier
-CSSComb
-Trimmer
-HTML-CSS-JS Prettify
-Pretty JSON
-LiveReload
+# Web Development
+JSHint,Minifier,CSScomb,Trimmer,HTML-CSS-JS Prettify,Pretty JSON,LiveReload
 
-tabnine
-SublimeLinter
+# Intellisense
+Tabnine, SublimeLinter
