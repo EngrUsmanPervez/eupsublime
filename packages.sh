@@ -1,31 +1,19 @@
-// Advanced Install Package
+# Advanced Install Package
 
-// Utilities
+# Utilities
 SideBarEnhancements,Alignment,BracketHighlighter,Emmet,A File Icon,SFTP,AutoFileName,Auto Semi-Colon,FileDiffs,TodoReview,ChangeQuotes,DoxyDoxygen,DocBlockr,All Autocomplete,AdvancedNewFile
 
-// Styling
-Theme - Monokai Pro,themr,Colorsublime,Origami
+# Styling
+Theme - Monokai Pro,Themr,Colorsublime,Origami
 
-// C Programming
-C++ Starting Kit 
-C Improved
-C++11 
-CppBuilder
-CMakeSnippets
-Clang Format
-C++ Snippets
-C++NamespaceTool
+# C Programming
+C++ Starting Kit,C Improved,C++11,CppBuilder,Clang Format,C++ Snippets,C++NamespaceTool
 
+# Color
+ColorHelper,ColorPicker,Color Highlighter
 
-ColorHelper
-ColorPicker
-Color Highlighter
-
-git
-SublimeGit
-GitGutter
-GitHubinator
-GitOpenChangedFiles
+# Git
+Git,SublimeGit,GitGutter,GitHubinator,GitOpenChangedFiles
 
 Terminus
 Terminal
