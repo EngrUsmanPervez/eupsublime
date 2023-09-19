@@ -18,8 +18,8 @@ On the RightPanel, add this line
   "hot_exit": "disabled",
 ```
 ```
-Spaces: 4
-CTRL+SHIFT+P -> Clang Format -> Set Style -> Webkit
+Spaces: 2
+CTRL+SHIFT+P -> Clang Format -> Set Style -> Mozilla
 ```
 ```
 CTRL+SHIFT+P -> Install Theme
