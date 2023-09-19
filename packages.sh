@@ -28,4 +28,4 @@ JSHint,Minifier,CSScomb,Trimmer,HTML-CSS-JS Prettify,Pretty JSON,LiveReload
 Tabnine, SublimeLinter
 
 # Themes
-Materialize,Dracula,Ayu
+Materialize,Dracula,Ayu,Brogrammer
