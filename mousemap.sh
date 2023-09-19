@@ -1,4 +1,4 @@
-nano ~/.config/sublime-text/Packages/User/Default\ \(Linux\).sublime-mousemap
+# nano ~/.config/sublime-text/Packages/User/Default\ \(Linux\).sublime-mousemap
 
 [
     {
