@@ -8,4 +8,12 @@ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sou
 sudo apt-get update
 sudo apt-get install apt-transport-https
 sudo apt-get install sublime-text
+sudo apt-get install clang-format
+```
+
+### Configurations
+```
+Menu -> Preferences -> Settings
+On the RightPanel, add this line
+  "hot_exit": "disabled",
 ```
