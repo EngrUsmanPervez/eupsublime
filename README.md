@@ -25,4 +25,3 @@ CTRL+SHIFT+P -> Clang Format -> Set Style -> Webkit
 CTRL+SHIFT+P -> Install Theme
 This will load all color schemes
 ```
-```
