@@ -16,8 +16,13 @@ sudo apt-get install clang-format
 Menu -> Preferences -> Settings
 On the RightPanel, add this line
   "hot_exit": "disabled",
-
-
+```
+```
 Spaces: 4
 CTRL+SHIFT+P -> Clang Format -> Set Style -> Webkit
+```
+```
+CTRL+SHIFT+P -> Install Theme
+This will load all color schemes
+```
 ```
