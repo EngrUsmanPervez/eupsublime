@@ -1,7 +1,7 @@
 # Advanced Install Package
 
 # Utilities
-SideBarEnhancements,Alignment,BracketHighlighter,Emmet,A File Icon,SFTP,AutoFileName,Auto Semi-Colon,FileDiffs,TodoReview,ChangeQuotes,DoxyDoxygen,All Autocomplete,AdvancedNewFile
+SideBarEnhancements,Alignment,BracketHighlighter,Emmet,A File Icon,SFTP,AutoFileName,Auto Semi-Colon,FileDiffs,ChangeQuotes,All Autocomplete,AdvancedNewFile
 
 # Styling
 Theme - Monokai Pro,Themr,Colorsublime,Origami
@@ -22,7 +22,7 @@ Terminus,Terminal
 MarkdownEditing,MarkdownPreview,PackageResourceViewer
 
 # Web Development
-JSHint,Minifier,CSScomb,Trimmer,HTML-CSS-JS Prettify,Pretty JSON,LiveReload
+JSHint,Minifier,CSScomb,Trimmer,HTML-CSS-JS Prettify,Pretty JSON
 
 # Intellisense
 Tabnine, SublimeLinter
