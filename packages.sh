@@ -29,3 +29,6 @@ Tabnine, SublimeLinter
 
 # Themes
 Materialize,Dracula,Ayu,Brogrammer
+
+# Python
+anaconda
