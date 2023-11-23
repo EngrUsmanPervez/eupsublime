@@ -10,7 +10,7 @@ C++ Starting Kit,C Improved,C++11,CppBuilder,Clang Format,C++ Snippets,C++Namesp
 Terminus,Terminal
 
 # Markdown
-MarkdownEditing,MarkdownPreview,PackageResourceViewer
+MarkdownEditing,MarkdownPreview,Markdown Extended,MarkdownlivePreview,PackageResourceViewer
 
 # Intellisense
 SublimeLinter
