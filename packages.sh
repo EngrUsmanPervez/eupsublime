@@ -19,7 +19,8 @@ tabnine,SublimeLinter
 Anaconda
 
 # Django
-Anaconda,Djaneiro,HTML-CSS-JS Prettify,JSHint,TrailingSpaces,requirementstxt,CSScomb,Minifier
+Anaconda,HTML-CSS-JS Prettify,JSHint,TrailingSpaces,requirementstxt,CSScomb,Minifier
+Djaneiro,Django,Django Click,Django Syntax, Django Tag
 ColorPicker,JQuery,JsFormat,Goto-CSS-Declaration,Pretty JSON,BootstrapAutocomplete
 
 # Anaconda Settings
