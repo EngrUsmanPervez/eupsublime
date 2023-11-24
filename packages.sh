@@ -39,7 +39,7 @@ Project » Edit Project
         // settings here will override global settings
         "BootstrapAutocomplete": {
             // use Bootstrap 4 for this project.
-            "versions": ["4"],
+            "versions": ["5"],
         },
     },
 }
