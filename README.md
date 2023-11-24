@@ -16,6 +16,7 @@ sudo apt-get install clang-format
 Menu -> Preferences -> Settings
 On the RightPanel, add this line
   "hot_exit": "disabled",
+  "translate_tabs_to_spaces": true,
 ```
 ```
 Spaces: 2
