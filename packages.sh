@@ -16,7 +16,11 @@ MarkdownEditing,MarkdownPreview,Markdown Extended,MarkdownlivePreview,PackageRes
 SublimeLinter
 
 # Python
-anaconda
+Anaconda
+
+# Django
+Anaconda,Djaneiro,HTML-CSS-JS Prettify,JSHint,TrailingSpaces,requirementstxt,CSScomb,Minifier
+ColorPicker,JQuery,JsFormat,Goto-CSS-Declaration,JSHint Extension
 
 
 ########################################################## Extras ##########################################################
