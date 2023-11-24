@@ -13,17 +13,18 @@ Terminus,Terminal
 MarkdownEditing,MarkdownPreview,Markdown Extended,MarkdownlivePreview,PackageResourceViewer
 
 # Intellisense
-SublimeLinter
+tabnine,SublimeLinter
 
 # Python
 Anaconda
 
 # Django
 Anaconda,Djaneiro,HTML-CSS-JS Prettify,JSHint,TrailingSpaces,requirementstxt,CSScomb,Minifier
-ColorPicker,JQuery,JsFormat,Goto-CSS-Declaration,JSHint Extension
+ColorPicker,JQuery,JsFormat,Goto-CSS-Declaration,Pretty JSON
 
-
-########################################################## Extras ##########################################################
+# Anaconda Settings
+Preferences -> Browse Packages -> Anaconda -> Anaconda.sublime-settings
+"pep8_max_line_length": 999,
 
 # Styling
 Theme - Monokai Pro,Themr,Colorsublime,Origami
@@ -36,9 +37,6 @@ ColorHelper,ColorPicker,Color Highlighter
 
 # Git
 Git,SublimeGit,GitGutter,GitHubinator,GitOpenChangedFiles
-
-# Web Development
-JSHint,Minifier,CSScomb,Trimmer,HTML-CSS-JS Prettify,Pretty JSON
 
 # Themes
 Materialize,Dracula,Ayu,Brogrammer
