@@ -20,11 +20,29 @@ Anaconda
 
 # Django
 Anaconda,Djaneiro,HTML-CSS-JS Prettify,JSHint,TrailingSpaces,requirementstxt,CSScomb,Minifier
-ColorPicker,JQuery,JsFormat,Goto-CSS-Declaration,Pretty JSON
+ColorPicker,JQuery,JsFormat,Goto-CSS-Declaration,Pretty JSON,BootstrapAutocomplete
 
 # Anaconda Settings
 Preferences -> Browse Packages -> Anaconda -> Anaconda.sublime-settings
 "pep8_max_line_length": 999,
+
+# Bootstrap Settings
+Project -> Save project (inside project dir)
+Project -> Edit Project
+Project » Edit Project
+{
+    "folders":
+    [
+        // ...
+    ],
+    "settings": {
+        // settings here will override global settings
+        "BootstrapAutocomplete": {
+            // use Bootstrap 4 for this project.
+            "versions": ["4"],
+        },
+    },
+}
 
 # Styling
 Theme - Monokai Pro,Themr,Colorsublime,Origami
