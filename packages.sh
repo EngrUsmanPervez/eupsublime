@@ -13,10 +13,25 @@ Terminus,Terminal
 MarkdownEditing,MarkdownPreview,Markdown Extended,MarkdownlivePreview,PackageResourceViewer
 
 # Intellisense
-tabnine,SublimeLinter
+SublimeLinter
 
 # Python
 Anaconda
+
+# Styling
+Theme - Monokai Pro,Themr,Colorsublime,Origami
+
+# Intellisense
+Tabnine
+
+# Coloring
+ColorHelper,ColorPicker,Color Highlighter
+
+# Git
+Git,SublimeGit,GitGutter,GitHubinator,GitOpenChangedFiles
+
+# Themes
+Materialize,Dracula,Ayu,Brogrammer
 
 # Django
 Anaconda,HTML-CSS-JS Prettify,JSHint,TrailingSpaces,requirementstxt,CSScomb,Minifier
@@ -44,18 +59,3 @@ Project » Edit Project
         },
     },
 }
-
-# Styling
-Theme - Monokai Pro,Themr,Colorsublime,Origami
-
-# Intellisense
-Tabnine
-
-# Coloring
-ColorHelper,ColorPicker,Color Highlighter
-
-# Git
-Git,SublimeGit,GitGutter,GitHubinator,GitOpenChangedFiles
-
-# Themes
-Materialize,Dracula,Ayu,Brogrammer
