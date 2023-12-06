@@ -4,7 +4,7 @@
     {
         "button": "button1", 
         "count": 1, 
-        "modifiers": ["shift"],
+        "modifiers": ["alt"],
         "press_command": "drag_select",
         "command": "goto_definition"
     }
