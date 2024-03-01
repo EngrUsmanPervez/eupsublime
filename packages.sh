@@ -1,7 +1,7 @@
 # Advanced Install Package
 
 # Utilities
-SideBarEnhancements,Alignment,BracketHighlighter,Emmet,A File Icon,SFTP,AutoFileName,Auto Semi-Colon,FileDiffs,ChangeQuotes,All Autocomplete,AdvancedNewFile,FuzzyFilePath
+SideBarEnhancements,Alignment,BracketHighlighter,Emmet,A File Icon,SFTP,AutoFileName,Auto Semi-Colon,FileDiffs,ChangeQuotes,All Autocomplete,AdvancedNewFile,FuzzyFilePath,Multicommand
 
 # C Programming
 C++ Starting Kit,C Improved,C++11,CppBuilder,Clang Format,C++ Snippets,C++NamespaceTool
