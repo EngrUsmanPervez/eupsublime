@@ -29,3 +29,6 @@ This will load all color schemes
 Project Implemented on [Academic Master](https://academic-master.com/)
 
 ```
+
+Project designed and Implemented for [Academic Master](https://academic-master.com/)
+
