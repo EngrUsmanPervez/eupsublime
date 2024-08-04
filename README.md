@@ -25,4 +25,7 @@ CTRL+SHIFT+P -> Clang Format -> Set Style -> Mozilla
 ```
 CTRL+SHIFT+P -> Install Theme
 This will load all color schemes
+
+Project Implemented on [Academic Master](https://academic-master.com/)
+
 ```
