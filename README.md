@@ -22,6 +22,16 @@ On the RightPanel, add this line
 Spaces: 2
 CTRL+SHIFT+P -> Clang Format -> Set Style -> Mozilla
 ```
+
+```
+# Auto format
+Go to Menu => Preferences => Package Settings => Clang Format => Settings-User
+{
+  "style": "Mozilla",
+  "format_on_save": true,
+}
+```
+
 ```
 CTRL+SHIFT+P -> Install Theme
 This will load all color schemes
