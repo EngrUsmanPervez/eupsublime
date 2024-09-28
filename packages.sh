@@ -6,6 +6,12 @@ SideBarEnhancements,Alignment,BracketHighlighter,Emmet,A File Icon,SFTP,AutoFile
 # C Programming
 C++ Starting Kit,C Improved,C++11,CppBuilder,Clang Format,C++ Snippets,C++NamespaceTool
 
+# Go Programming
+Gofmt, Golang
+
+# Json
+Pretty JSON
+
 # Terminal
 Terminus,Terminal
 
