@@ -7,7 +7,7 @@ SideBarEnhancements,Alignment,BracketHighlighter,Emmet,A File Icon,SFTP,AutoFile
 C++ Starting Kit,C Improved,C++11,CppBuilder,Clang Format,C++ Snippets,C++NamespaceTool
 
 # Go Programming
-Gofmt, Golang
+Gofmt, Golang, GoImports
 
 # Json
 Pretty JSON
@@ -19,16 +19,13 @@ Terminus,Terminal
 MarkdownEditing,MarkdownPreview,Markdown Extended,MarkdownLivePreview,PackageResourceViewer
 
 # Intellisense
-SublimeLinter
+SublimeLinter,Tabnine
 
 # Python
 Anaconda
 
 # Styling
 Theme - Monokai Pro,Themr,Colorsublime,Origami
-
-# Intellisense
-Tabnine
 
 # Coloring
 ColorHelper,ColorPicker,Color Highlighter
