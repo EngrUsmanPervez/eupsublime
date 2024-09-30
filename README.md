@@ -38,6 +38,16 @@ Go to Menu => Preferences => Package Settings => Clang Format => Settings-User
 }
 ```
 
+##### Go Auto Format
+
+```bash
+# Auto format
+Go to Menu => Preferences => Package Settings => Gofmt => Settings-User
+{
+    "format_on_save": true
+}
+```
+
 ##### Clang-Format Auto Format Folder
 
 ```bash
