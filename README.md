@@ -48,6 +48,18 @@ Go to Menu => Preferences => Package Settings => Gofmt => Settings-User
 }
 ```
 
+
+##### YAML
+
+```bash
+pip3 install yamllint
+subl ~/.bashrc
+  export PATH="$HOME/.local/bin:$PATH"
+which yamllint
+  /home/network/.local/bin/yamllint
+yamllint
+```
+
 ##### Clang-Format Auto Format Folder
 
 ```bash
