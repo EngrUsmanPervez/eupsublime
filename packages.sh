@@ -9,6 +9,9 @@ C++ Starting Kit,C Improved,C++11,CppBuilder,Clang Format,C++ Snippets,C++Namesp
 # Go Programming
 Gofmt, Golang, GoImports, LSP-gopls
 
+# Yaml
+SublimeLinter-contrib-yamllint, YAML Nav
+
 # Json
 Pretty JSON
 
