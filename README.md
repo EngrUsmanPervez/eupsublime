@@ -52,6 +52,8 @@ Go to Menu => Preferences => Package Settings => Gofmt => Settings-User
 ##### YAML
 
 ```bash
+sudo apt install yamllint
+# OR
 pip3 install yamllint
 subl ~/.bashrc
   export PATH="$HOME/.local/bin:$PATH"
