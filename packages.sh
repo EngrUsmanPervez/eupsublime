@@ -22,7 +22,7 @@ Terminus,Terminal
 MarkdownEditing,MarkdownPreview,Markdown Extended,MarkdownLivePreview,PackageResourceViewer
 
 # Intellisense
-SublimeLinter,Tabnine
+LSP, SublimeLinter,Tabnine
 
 # Python
 Anaconda
