@@ -7,7 +7,7 @@ SideBarEnhancements,Alignment,BracketHighlighter,Emmet,A File Icon,SFTP,AutoFile
 C++ Starting Kit,C Improved,C++11,CppBuilder,Clang Format,C++ Snippets,C++NamespaceTool
 
 # Go Programming
-Gofmt, Golang, GoImports, LSP-gopls
+Gofmt, Golang, GoImports, LSP-gopls, sublimeliner-golangcilint
 
 # Yaml
 SublimeLinter-contrib-yamllint, YAML Nav
